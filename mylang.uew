@@ -1,0 +1,14 @@
+/L20"MYLANG" MY_LANG Nocase Line Comment Num = 1* Line Comment Alt = " Escape Char = @ File Extensions = xml txt log
+/Colors = 0,8421376,8421376,8421504,255,
+/Colors Back = 13625548,13625548,13625548,13625548,13625548,
+/Colors Auto Back = 1,1,1,1,1,
+/Font Style = 0,0,0,0,0,
+/C1"INFO" Colors = 16711680 Colors Back = 13625548 Colors Auto Back = 1 Font Style = 0
+INFO
+LOG_INFO_MSG
+/C2"ERROR" Colors = 255 Colors Back = 13625548 Colors Auto Back = 1 Font Style = 0
+ERROR
+LOG_ERROR_MSG
+/C3"WARNING" Colors = 33023 Colors Back = 13625548 Colors Auto Back = 1 Font Style = 0
+WARNING
+LOG_WARNING_MSG
