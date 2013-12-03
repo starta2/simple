@@ -1,5 +1,5 @@
 /L20"MYLANG" MY_LANG Nocase Line Comment Num = 1* Line Comment Alt = " Escape Char = @ File Extensions = xml txt log
-/Colors = 0,8421376,8421376,8421504,255,
+/Colors = 0,0,0,0,0,
 /Colors Back = 13625548,13625548,13625548,13625548,13625548,
 /Colors Auto Back = 1,1,1,1,1,
 /Font Style = 0,0,0,0,0,
